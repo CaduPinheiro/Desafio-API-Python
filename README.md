@@ -1,7 +1,7 @@
 # Desafio-API-Python
 
 Grupo:
-Allan Garcia
+Allan Garcia\n
 Ricardo Pinheiro
 Samanta Marry
 Taís Araujo Jorge
